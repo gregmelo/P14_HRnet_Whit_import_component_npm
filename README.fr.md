@@ -204,19 +204,9 @@ L’application s’ouvrira à l’adresse http://localhost:3000
 Les contributions sont les bienvenues ! Pour proposer des modifications :
 
     Forkez le dépôt.
-
-    Créez une branche :
-
-git checkout -b feature/ma-fonctionnalité
-
-Apportez vos modifications puis validez :
-
-git commit -m "Ajout de la fonctionnalité"
-
-Poussez la branche :
-
-    git push origin feature/ma-fonctionnalité
-
+    Créez une branche (git checkout -b feature/ma-fonctionnalité).
+    Apportez vos modifications puis validez (git commit -m "Ajout de la fonctionnalité").
+    Poussez la branche (git push origin feature/ma-fonctionnalité).
     Ouvrez une pull request sur GitHub.
 
 Merci de respecter le style du code existant et d’ajouter des tests si nécessaire.
