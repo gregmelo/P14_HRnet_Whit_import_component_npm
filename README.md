@@ -91,8 +91,10 @@ Follow these steps to set up the project locally:
 
     Install Dependencies: Ensure you have Node.js installed. Then run:
     bash
-
+   ```bash
 npm install
+    bash
+    
 This installs all required packages, including:
 
     react, react-dom, react-router-dom
