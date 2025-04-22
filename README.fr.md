@@ -109,7 +109,7 @@ Cela installe toutes les dépendances nécessaires, dont :
 ```bash
     npm run dev
 ```
-    L’application s’ouvrira à l’adresse http://localhost:3000
+L’application s’ouvrira à l’adresse http://localhost:3000
 
 ## Utilisation
 
