@@ -85,19 +85,19 @@ HRnet provides the following functionalities:
 Follow these steps to set up the project locally:
 
 1. Clone the Repository
-
+```bash
 git clone https://github.com/your-username/hrnet.git
 cd hrnet
-
+```
 2. Install Dependencies
 
 Make sure you have Node.js installed on your machine.
 Then, run the following command:
-
+```bash
 npm install
-
+```
 This will install all the required dependencies, including:
-
+```bash
     react, react-dom, react-router-dom
 
     @reduxjs/toolkit, react-redux
@@ -107,11 +107,11 @@ This will install all the required dependencies, including:
     react-datepicker, react-icons
 
     sass (for SCSS support)
-
+```
 3. Start the Development Server
-
-npm start
-
+```bash
+npm run dev
+```
 The application will automatically open in your default browser at:
 http://localhost:3000
 
