@@ -89,12 +89,15 @@ Follow these steps to set up the project locally:
    git clone https://github.com/your-username/hrnet.git
    cd hrnet
 
-    Install Dependencies: Ensure you have Node.js installed. Then run:
-    bash
-   ```bash
-npm install
+    Install Dependencies: Ensure you have Node.js installed. 
     bash
     
+    Then run:
+
+    bash
+    npm install
+    bash
+
 This installs all required packages, including:
 
     react, react-dom, react-router-dom
