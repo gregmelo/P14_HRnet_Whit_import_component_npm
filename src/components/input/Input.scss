@@ -1,0 +1,29 @@
+// src/components/Input.scss
+.custom-input {
+    padding: 0.5rem;
+    border: 0.5px solid #3e4720;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    font-size: 1rem;
+    color: black;
+    width: 100%;
+    box-sizing: border-box;
+  
+    &:focus {
+      outline: none;
+      border-bottom-color: #a1a88c; // Bordure plus claire au focus
+    }
+  
+    &::placeholder {
+      color: #888; // Couleur du placeholder
+    }
+
+    // Supprimer les flèches pour les inputs de type number
+  &[type="number"] {
+    -webkit-appearance: none; // Pour Chrome, Safari, Edge
+    -moz-appearance: textfield; // Pour Firefox
+    appearance: textfield; // Pour les autres navigateurs
+  }
+  }
