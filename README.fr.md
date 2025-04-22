@@ -88,13 +88,13 @@ Suivez ces étapes pour installer le projet localement :
    ```bash
    git clone https://github.com/your-username/hrnet.git
    cd hrnet
-
+```
     Installer les dépendances : Assurez-vous d’avoir Node.js installé. Ensuite :
-
+```bash
 npm install
-
+```
 Cela installe toutes les dépendances nécessaires, dont :
-
+```bash
     react, react-dom, react-router-dom
 
     @reduxjs/toolkit, react-redux
@@ -104,11 +104,11 @@ Cela installe toutes les dépendances nécessaires, dont :
     react-datepicker, react-icons
 
     sass
-
+```
 Lancer le serveur de développement :
-
-    npm start
-
+```bash
+    npm run dev
+```
     L’application s’ouvrira à l’adresse http://localhost:3000
 
 ## Utilisation
