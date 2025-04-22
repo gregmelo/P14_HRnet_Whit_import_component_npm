@@ -88,7 +88,7 @@ Suivez ces étapes pour installer le projet localement :
    ```bash
    git clone https://github.com/your-username/hrnet.git
    cd hrnet
-```
+    ```
     Installer les dépendances : Assurez-vous d’avoir Node.js installé. Ensuite :
 ```bash
 npm install
