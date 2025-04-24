@@ -85,29 +85,29 @@ HRnet offre les fonctionnalités suivantes :
 Suivez ces étapes pour installer le projet localement :
 
 1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/your-username/hrnet.git
-   cd hrnet
-    ```
+```bash
+git clone https://github.com/your-username/hrnet.git
+cd hrnet
+```
 2. Installer les dépendances : Assurez-vous d’avoir Node.js installé. Ensuite :
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 Cela installe toutes les dépendances nécessaires, dont :
 ```bash
-    react, react-dom, react-router-dom
+react, react-dom, react-router-dom
 
-    @reduxjs/toolkit, react-redux
+@reduxjs/toolkit, react-redux
 
-    @faker-js/faker
+@faker-js/faker
 
-    react-datepicker, react-icons
+react-datepicker, react-icons
 
-    sass
+sass
 ```
 3. Lancer le serveur de développement :
 ```bash
-    npm run dev
+npm run dev
 ```
 L’application s’ouvrira à l’adresse http://localhost:3000
 
