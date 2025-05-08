@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://votre-site.com/sitemap.xml
