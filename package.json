@@ -14,6 +14,7 @@
     "@gregmelo/custom-datepicker-component": "^1.0.8",
     "@gregmelo/modal-component": "^1.0.18",
     "@reduxjs/toolkit": "^2.6.1",
+    "@tanstack/react-table": "^8.21.3",
     "date-fns": "^4.1.0",
     "prop-types": "^15.8.1",
     "react": "^19.0.0",
